@@ -1,0 +1,12 @@
+2023-04-14 09:49:49,129:utils:Creating session with database 
+2023-04-14 09:49:49,161:main:List of all users returned
+2023-04-14 09:49:49,166:utils:Session Created
+2023-04-14 09:51:03,360:utils:Creating session with database 
+2023-04-14 09:51:03,377:utils:Validating name and phone_number before inserting in database.
+2023-04-14 09:51:03,380:utils:Name validation is successful
+2023-04-14 09:51:03,383:utils:Phone Number validation successful
+2023-04-14 09:51:03,384:utils:Name and phone_number correct. Creating database object
+2023-04-14 09:51:03,387:utils:Database object created
+2023-04-14 09:51:03,390:utils:Adding to the database
+2023-04-14 09:51:03,417:utils:Record successfully added name: Shoei Otahani and phone_number: +1 817-020-5647
+2023-04-14 09:51:03,426:utils:Session Created
